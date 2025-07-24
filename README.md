@@ -2,7 +2,7 @@
 
 Esses são alguns dos exercícios que fiz durante o meu curso de algoritmos do **Curso em Vídeo**!
 
-São programinhas interativos feitos no **Visualg**, que me ajudaram muito a entender a lógica de programação no início da minha jornada.  
+São programas interativos feitos no **Visualg**, que me ajudaram muito a entender a lógica de programação no início da minha jornada.  
 Trabalhei com conceitos como:
 
 - 📌 Variáveis e tipos de dados
